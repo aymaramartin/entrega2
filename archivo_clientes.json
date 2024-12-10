@@ -1,0 +1,48 @@
+[
+    {
+        "nombre": "Juan Lopez",
+        "gmail": "juanLopez@gmail.com",
+        "direccion": "Calle Falsa 123",
+        "productos": [
+            "Laptop",
+            "Auriculares",
+            "Teclado",
+            "Mouse"
+        ],
+        "descuento": 10.0
+    },
+    {
+        "nombre": "Mar\u00eda G\u00f3mez",
+        "gmail": "maria@gmail.com",
+        "direccion": "Avenida Siempre Viva 456",
+        "productos": [
+            "Smartphone",
+            "Auriculares",
+            "Cargador",
+            "Funda"
+        ]
+    },
+    {
+        "nombre": "Juan Lopez",
+        "gmail": "juanLopez@gmail.com",
+        "direccion": "Calle Falsa 123",
+        "productos": [
+            "Laptop",
+            "Auriculares",
+            "Teclado",
+            "Mouse"
+        ],
+        "descuento": 10.0
+    },
+    {
+        "nombre": "Mar\u00eda G\u00f3mez",
+        "gmail": "maria@gmail.com",
+        "direccion": "Avenida Siempre Viva 456",
+        "productos": [
+            "Smartphone",
+            "Auriculares",
+            "Cargador",
+            "Funda"
+        ]
+    }
+]
